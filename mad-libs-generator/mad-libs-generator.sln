@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "mad-libs-generator", "mad-libs-generator.pyproj", "{B9DF9EDD-E4BF-465B-9587-7DD379E0F7F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9DF9EDD-E4BF-465B-9587-7DD379E0F7F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9DF9EDD-E4BF-465B-9587-7DD379E0F7F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C06051D4-25D7-4D65-85E4-FC86547EBAE3}
+	EndGlobalSection
+EndGlobal
